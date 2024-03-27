@@ -1,13 +1,13 @@
 profile
 
-Name(名前).
+Name(名前)　中島健汰
 
-Age(年齢).
+Age(年齢)　27
 
-Gender(性別).
+Gender(性別)　男
 
-Date of birth(生年月日).
+Date of birth(生年月日)　1996.09.09
 
-Blood type(血液型).
+Blood type(血液型)　O
 
 
