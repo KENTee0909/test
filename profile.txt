@@ -1,0 +1,13 @@
+profile
+
+Name(名前).
+
+Age(年齢).
+
+Gender(性別).
+
+Date of birth(生年月日).
+
+Blood type(血液型).
+
+
